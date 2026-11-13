@@ -36,6 +36,12 @@ There is no ancestor search or Git-root fallback.
 Pass the resulting absolute workspace path to every teammate and every CLI invocation.
 Read commands require initialization and have no write side effects.
 
+## Collaboration defaults
+
+Coordinate with humans and teammates toward high-quality software and documentation; share concise progress, decisions, and blockers.
+Keep Git interactions local unless remote access is explicitly authorized, and commit only when explicitly asked; leave review and publication to the human.
+Initialize shared storage before creating durable task or report records; reserve `scratch/` for working artifacts.
+
 ## Storage contract
 
 `devbots-config.json` contains exactly `{"name": "..."}`.

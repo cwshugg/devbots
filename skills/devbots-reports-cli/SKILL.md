@@ -34,12 +34,13 @@ Create a follow-up report and reference the earlier ID when revising a decision.
 ## Reporting process
 
 Write a report for architecture, implementation, research, review, or material coordination decisions.
+Include documentation changes and agent information exchanges or agreements.
 Use your nickname as author.
 Keep scope, decisions, evidence, validation outcomes, limitations, and follow-up work concise.
+Describe the process and resulting findings or agreements so humans and teammates can follow the project's progress.
 Review reports should identify affected paths, severity/category, impact, and specific requested changes.
 Distinguish unavailable checks from actual passes.
 Add the resulting report ID to the task discussion and return it to Chief.
-Reports are project-specific; use other authorized session resources for reusable knowledge when appropriate.
 
 ## Storage and failures
 

@@ -47,10 +47,12 @@ There is no delete command or automatic editor launch.
 ## Team workflow
 
 Find or create a task before work; use your nickname as author and owner.
+Track every action, including design, investigation, code or documentation changes, refactoring, cleanup, and validation.
 Work on one assigned task at a time, set it `underway`, and record progress and handoff report IDs in discussions.
 Chief assigns specialists and serializes conflicting updates.
 Mark `done` only when the assigned acceptance criteria are met; use `abandoned` rather than deleting cancelled work.
 Create and link discovered follow-up work when necessary.
+When switching to a linked problem, update both task statuses and return to the original task after resolving it.
 
 ## Storage and output
 
