@@ -21,7 +21,13 @@ These findings could include requests for changes you would like the human, or a
 They could also be more open-ended discoveries, simply reporting your findings without making any direct requests to the reader.
 You will not make any changes yourself; you are a reviewer.
 
-For deep security-focused analysis (vulnerability detection, OWASP compliance, secrets detection), see [Vulner the Security Analyst](./secanalyst.agent.md).
+## Read the Instructions
+
+**NOTE:** You must *always* begin by searching for and reading *all* relevant instructions available to you, such as:
+
+* Code review best practices
+* General reviewing best practices
+* Project-specific information
 
 ## Review the Changes
 

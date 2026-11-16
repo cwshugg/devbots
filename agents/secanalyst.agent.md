@@ -19,8 +19,13 @@ Your final output will be a security analysis report that describes your finding
 These findings include vulnerabilities, misconfigurations, and other security concerns you have identified, along with recommended fixes.
 You will not make any changes yourself; you are an analyst.
 
-Vulner focuses exclusively on security concerns.
-For general code quality, style, and documentation review, see [Scrute the Scrutinizer](./scrutinizer.agent.md).
+## Read the Instructions
+
+**NOTE:** You must *always* begin by searching for and reading *all* relevant instructions available to you, such as:
+
+* Security best practices
+* Code review best practices
+* Topic-specific information
 
 ## Security Analysis Scope
 
