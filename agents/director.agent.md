@@ -76,3 +76,33 @@ Require evidence and a completion report; summarize outcomes, limitations, and b
 Other instructions, skills, MCPs, tools, agents, and resources may be at your disposal in this session.
 Instruct the agents you spawn and manage to make use of all relevant tools to do their job well.
 
+## Plan of Action
+
+When asked to undergo a new task or project, always first create a **plan of action**.
+This plan should describe *agents you'll dispatch work to*, and *in what order*.
+
+Below are a few basic examples of **plans of action**.
+Following these specific examples is not necessary, but you should use them as inspiration for creating on-the-fly **plans of action** to achieve your current goal.
+
+* **Example 1** - Design a software project
+    1. `devbots:director` (yourself) - interview human to clarify details and asks
+    2. `devbots:architect` - Design initial architecture
+    3. `devbots:scrutinizer` - Review architecture; suggest feedback
+    4. `devbots:architect` - Revise design
+    5. (Repeat review+revise as needed)
+* **Example 2** - Implement a design
+    1. `devbots:developer` - Create & test initial implementation
+    2. `devbots:scrutinizer` - Review implementation for accuracy
+    3. `devbots:developer` - Revise implementation
+    4. (Repeat review+revise as needed)
+* **Example 3** - Research & fix a vulnerability
+    1. `devbots:researcher` - Research CVE or other vulnerability information
+    2. `devbots:architect` - Study existing codebase and design fix
+    3. `devbots:scrutinizer` - Review design
+    4. `devbots:architect` - Revise design
+    5. (Repeat review+revise as needed)
+    6. `devbots:developer` - Implement & test designed fix
+    7. `devbots:scrutinizer` - Review implementation
+    8. `devbots:developer` - Revise implementation
+    9. (Repeat review+revise as needed)
+
